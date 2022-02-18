@@ -157,6 +157,7 @@ body {
     margin: 4rem 7rem;
   }
   .testimonials {
+    padding: 62px;
     max-width: 1200px;
     column-gap: 20px;
     row-gap: 20px;
